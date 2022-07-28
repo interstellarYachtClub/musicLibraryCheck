@@ -5,7 +5,7 @@ A collection of modules for checking a personal music library organized to the p
 # musicArtwork.sh
 
 ## Description
-This is a shell script. It is intended to be used with folders structured as 'Artist/Artist - Album' with only a single level subdirectory
+This is a shell script. It is intended to be used in a directory of music artist folders structured as 'Artist/Artist - Album' with only two levels of subdirectory below the script path
 
 ## Example folder structure
 Root Music Directory
