@@ -8,7 +8,8 @@ A collection of modules for checking a personal music library organized to the p
 This is a shell script. It is intended to be used with folders structured as 'Artist/Artist - Album' with only a single level subdirectory
 
 ## Example folder structure
-Root Music Directory   
+Root Music Directory
+//cd here and run the shell script from this level
 │
 └───Artist0
 │   │
