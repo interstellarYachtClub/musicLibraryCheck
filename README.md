@@ -1,13 +1,14 @@
-# [Easiest to read in raw](https://raw.githubusercontent.com/interstellarYachtClub/musicLibraryCheck/main/README.md)
+## [Easiest to read in raw](https://raw.githubusercontent.com/interstellarYachtClub/musicLibraryCheck/main/README.md)
 # musicLibraryCheck
-A collection of modules for checking a personal music library organized to the plex/subsonic/jellyfin standard
+A collection of modules for checking a personal music library organized to the plex/subsonic/jellyfin standard.
 
-# musicArtwork.sh
+## Current Modules:
+musicArtwork.sh
 
-## Description
+### Description: 
 This is a shell script. It is intended to be used in a directory of music artist folders structured as 'Artist/Artist - Album' with only two levels of subdirectory below the script path
 
-## Example folder structure
+### Example folder structure
 Root Music Directory
 //cd here and run the shell script from this level
 │
@@ -26,7 +27,7 @@ Root Music Directory
 │       │   ...
 |
 |...
-## Use
+### Use
 place musicLibraryCheck.sh into whatever bin dir you want to use
 cd into the 'Root Music Directory'
 execute musicLibraryCheck.sh
