@@ -1,4 +1,3 @@
-## [Easiest to read in raw](https://raw.githubusercontent.com/interstellarYachtClub/musicLibraryCheck/main/README.md)
 # musicLibraryCheck
 A collection of modules for checking a personal music library organized to the plex/subsonic/jellyfin standard.
 
@@ -9,6 +8,7 @@ musicArtwork.sh
 This is a shell script. It is intended to be used in a directory of music artist folders structured as 'Artist/Artist - Album' with only two levels of subdirectory below the script path
 
 ### Example folder structure
+#### [See folder structure in raw](https://raw.githubusercontent.com/interstellarYachtClub/musicLibraryCheck/main/README.md)
 Root Music Directory
 //cd here and run the shell script from this level
 │
