@@ -3,6 +3,7 @@ A collection of modules for checking a personal music library organized to the p
 
 ## Current Modules:
 musicArtwork.sh
+musicFormat.sh
 
 ### Description: 
 This is a shell script. It is intended to be used in a directory of music artist folders structured as 'Artist/Artist - Album' with only two levels of subdirectory below the script path
