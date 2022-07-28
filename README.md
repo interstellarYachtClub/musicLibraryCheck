@@ -2,6 +2,8 @@
 # musicLibraryCheck
 A collection of modules for checking a personal music library organized to the plex/subsonic/jellyfin standard
 
+# musicArtwork.sh
+
 ## Description
 This is a shell script. It is intended to be used with folders structured as 'Artist/Artist - Album' with only a single level subdirectory
 
